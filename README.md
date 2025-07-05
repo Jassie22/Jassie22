@@ -52,6 +52,9 @@ Building the future of technology solutions through innovative development and s
 - 🌱 8 years of coding experience and still learning every day
 - 🎮 Love solving complex problems, whether it's debugging code or scaling businesses
 
+### 😄 Random Programming Humor
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=synthwave)
 
 ### 🤝 Let's Connect!
 
