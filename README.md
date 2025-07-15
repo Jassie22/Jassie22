@@ -4,7 +4,7 @@
 
 I'm passionate about building intelligent systems and creating solutions that make a real impact. From founding my own company to contributing to OpenAI's agentic model development, I love pushing the boundaries of what's possible with code and business.
 
-### 🏢 Founder | [True Node](https://truenode.co.uk)
+### 🏢 Founder | [True Node](www.truenode.co.uk)
 Building the future of technology solutions through innovative development and strategic partnerships.
 
 ### 🔥 What I'm Up To
